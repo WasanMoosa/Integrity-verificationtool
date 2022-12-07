@@ -101,7 +101,7 @@ public class Task1 {
 			}}
 		input.close();
 
-
+System.out.print("Good Girl");
 
 
 
