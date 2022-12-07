@@ -9,7 +9,7 @@ public class tochick {
 Scanner scanner= new Scanner(System.in);
 
 String inpo =scanner.nextLine();
-System.out.print("Great "+inpo);
+System.out.print("Nope "+inpo);
 	}
 
 }
