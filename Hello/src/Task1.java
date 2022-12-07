@@ -46,6 +46,9 @@ public class Task1 {
 
 	// Task1: Print menu 
 	public static void main (String[] args){
+		
+		System.out.println("Well done");
+		
 		System.out.println("\n");
 		System.out.println("Select an action:");
 		System.out.println("-----------------");
@@ -98,9 +101,9 @@ public class Task1 {
 
 			}}
 		input.close();
+		
 
 
-		System.out.println("Hello you are my matte");
 
 
 	} 
